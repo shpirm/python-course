@@ -1,0 +1,1 @@
+print("Mariia Shpir, KN_Group_2")
